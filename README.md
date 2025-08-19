@@ -1,5 +1,4 @@
-dont click users with no temps active
-
+404 means no temp currently attached (dm one to me and ill add or update it) or i broke smthn :)
 ## SirSeizures temp :)
 [SirSeizureMainArt](https://sirseizure666.github.io/SirSeizureMainArt) 
 
