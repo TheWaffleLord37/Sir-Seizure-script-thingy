@@ -14,3 +14,5 @@
 [FiskMainArt](https://sirseizure666.github.io/FiskMainArt) 
 
 [OnionMainArt](https://sirseizure666.github.io/OnionMainArt) 
+
+[SohiMainArt](https://sirseizure666.github.io/SohiMainArt) 
