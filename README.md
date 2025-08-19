@@ -1,2 +1,2 @@
 ## SirSeizure666.github.io
-[Repo](https://sirseizure666.github.io/Repo.html) 
+[MainArt](https://sirseizure666.github.io/MainArt) 
