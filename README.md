@@ -1,4 +1,4 @@
-##dont click users with no temps active
+dont click users with no temps active
 
 ## SirSeizures temp :)
 [SirSeizureMainArt](https://sirseizure666.github.io/SirSeizureMainArt) 
@@ -12,3 +12,6 @@
 
 [NikMainArt](https://sirseizure666.github.io/NikMainArt) 
 
+[FiskMainArt](https://sirseizure666.github.io/FiskMainArt) 
+
+[OnionMainArt](https://sirseizure666.github.io/OnionMainArt) 
