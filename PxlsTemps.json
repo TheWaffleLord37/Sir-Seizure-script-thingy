@@ -1,7 +1,7 @@
 {
     "groups": [
         {
-            "title": "SirSeizure test",
+            "title": "SirSeizure",
             "templates": [
                 {
                     "name": "SirSeizureMainArt",
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "title": "Others",
+            "title": "User Templates",
             "templates": [
                 {
                     "name": "PebbleMainArt",
@@ -40,6 +40,19 @@
                 {
                     "name": "NikMainArt",
                     "url": "https://sirseizure666.github.io/NikMainArt"
+                }
+            ]
+        }
+        {
+            "title": "Faction Templates",
+            "templates": [
+                {
+                    "name": "ManePxls Art",
+                    "url": "https://thewafflelord37.github.io/ManePxls-Template-Redirects/art.html"
+                },
+                {
+                    "name": "ManePxls Art + Background",
+                    "url": "https://thewafflelord37.github.io/ManePxls-Template-Redirects/full.html"
                 }
             ]
         }
