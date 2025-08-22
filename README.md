@@ -3,16 +3,16 @@
 [SirSeizureMainArt](https://sirseizure666.github.io/SirSeizureMainArt) 
 
 ## Frends temps
-[PebbleMainArt(no temp active)](https://sirseizure666.github.io/PebbleMainArt) 
+[PebbleMainArt(eeds Update)](https://sirseizure666.github.io/PebbleMainArt) 
 
-[ZinMainArt(no temp active)](https://sirseizure666.github.io/ZinMainArt) 
+[ZinMainArt](https://sirseizure666.github.io/ZinMainArt) 
 
-[KaiMainArt](https://sirseizure666.github.io/KaiMainArt) 
+[KaiMainArt (Needs Update)](https://sirseizure666.github.io/KaiMainArt) 
 
-[NikMainArt](https://sirseizure666.github.io/NikMainArt) 
+[NikMainArt (Needs Update)](https://sirseizure666.github.io/NikMainArt) 
 
-[FiskMainArt](https://sirseizure666.github.io/FiskMainArt) 
+[FiskMainArt (Needs Update)](https://sirseizure666.github.io/FiskMainArt) 
 
 [OnionMainArt](https://sirseizure666.github.io/OnionMainArt) 
 
-[SohiMainArt](https://sirseizure666.github.io/SohiMainArt) 
+[SohiMainArt (Needs Update)](https://sirseizure666.github.io/SohiMainArt) 
